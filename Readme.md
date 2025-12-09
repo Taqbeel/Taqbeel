@@ -50,7 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwindcss" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git" />
 </div>
@@ -60,9 +60,6 @@
 <div align="left">
   <a href="https://linkedin.com/in/taqbeel" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" />
   </a>
   <a href="https://techbeel.com" target="_blank">
     <img src="https://img.shields.io/badge/Techbeel-ff69b4?style=for-the-badge&logo=website&logoColor=white" height="35" />
@@ -105,7 +102,6 @@
 ###
 
 <h3 align="left">Contact Me</h3>
-- ✉️ muhammad.taqbeel@example.com
+- ✉️ taqbeel@techbeel.com
 - 🌐 <a href="https://techbeel.com" target="_blank">techbeel.com</a>
 - 💼 <a href="https://linkedin.com/in/taqbeel" target="_blank">LinkedIn</a>
-- 🐦 <a href="https://twitter.com/yourhandle" target="_blank">Twitter</a>
